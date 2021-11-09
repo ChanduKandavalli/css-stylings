@@ -1,0 +1,59 @@
+html{
+    font-size: 100%;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: url(https://i.pinimg.com/originals/3f/73/d5/3f73d57e3252bb60f1b622e7f6595a6e.jpg);
+    line-height: 30px;
+    margin: 0%;
+    padding: 0%;
+    background-color: floralwhite;
+    letter-spacing: 2px;
+    text-align: justify;
+}
+header{
+    background-color: rgb(189, 189, 189);
+    padding: 5px;
+    border-color: black;
+}
+h1{
+    color: rgb(0, 0, 0);
+    background-color: rgb(240, 100, 35);
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+    
+}
+h3{
+    text-shadow: burlywood 2px 3px;
+    background-color: chocolate;
+    padding: 10px;
+    border-radius: 10px;
+}
+p{
+    background-color: cornsilk;
+    padding: 10px;
+    border-radius: 10px;
+}
+div{
+    padding: 30px;
+    text-align: start;
+}
+button{
+    border-radius: 10px;
+    box-shadow: rgb(0, 0, 0) 2px 3px;
+    cursor: pointer;
+}
+.menu:hover {
+    color: rgb(226, 36, 26);
+}
+.menu:active {
+    color: rebeccapurple;
+}
+img {
+    float: right;
+    margin-right: 15px;
+    border-radius: 10px;
+    box-shadow: rgb(0, 0, 0) 3px 5px;
+}
